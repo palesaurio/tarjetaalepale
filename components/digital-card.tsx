@@ -171,7 +171,7 @@ export default function DigitalCard() {
               </div>
 
               <a
-                href="https://drive.google.com/file/d/16k3WIn9B8lLX4trosdQpXYS8OBn3fr4H/view"
+                href="https://drive.google.com/file/d/17CHwX2of5adHBRoTlmYOuC4n4IPYKAu6/view?usp=sharing"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex cursor-pointer items-center justify-between rounded-lg border border-gray-700 p-3 transition-colors hover:bg-gray-900"
